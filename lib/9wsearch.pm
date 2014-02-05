@@ -2,6 +2,7 @@ package DDG::Spice::9wsearch;
 
 use DDG::Spice;
 
+
 name '9W Search';
 description '9W Search right answer to a financial question';
 #primary_example_queries 'plos dinosaurs', 'plos echinoderm evolution';
